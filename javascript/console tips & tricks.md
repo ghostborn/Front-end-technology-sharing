@@ -1,6 +1,6 @@
-> #### 前端需要知道的console命令和技巧
+> ##### 前端需要知道的console命令和技巧
 
-每个人都会每隔一段时间使用 `JavaScript` 控制台进行日志记录或调试。但是 [console](https://developer.mozilla.org/en-US/docs/Web/API/Console) 对象的功能远不止[`console.log()`](https://developer.mozilla.org/en-US/docs/Web/API/console/log).
+每个人都会每隔一段时间使用 `JavaScript` 控制台进行日志记录或调试。但是 [console](https://developer.mozilla.org/en-US/docs/Web/API/Console) 对象的功能远不止[`console.log()`](https://developer.mozilla.org/en-US/docs/Web/API/console/log)。
 
 
 
